@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>Assets/#68246a.png</file>
+        <file>Assets/4891323.png</file>
+        <file>Assets/Announc_back.png</file>
+        <file>Assets/background.png</file>
+        <file>Assets/Command-Reset-256.png</file>
+        <file>Assets/cuhk60_logo.png</file>
+        <file>Assets/dashboard1.png</file>
+        <file>Assets/dashboard2.png</file>
+        <file>Assets/dashboardsmall1.png</file>
+        <file>Assets/dashboardsmall2.png</file>
+        <file>Assets/Emblem_of_CU.png</file>
+        <file>Assets/kisspng-multi-user-end-user-users-group-information-5ae2558e385407.3783369715247824782307.png</file>
+        <file>Assets/menu.png</file>
+        <file>Assets/PngItem_3560316(1).png</file>
+        <file>Assets/signout2.png</file>
+        <file>Assets/signoutsmall1.png</file>
+        <file>Assets/signoutsmall2.png</file>
+        <file>Assets/students3.png</file>
+        <file>Assets/students4.png</file>
+        <file>Assets/teacherssmall1.png</file>
+        <file>Assets/teacherssmall2.png</file>
+        <file>Assets/the-chinese-university-of-hong-kong-logo-F21185E146-seeklogo.png</file>
+        <file>Assets/PFP/pfp.jpeg</file>
+        <file>Assets/broadcast/CUHKSZ.png</file>
+        <file>Assets/broadcast/CUHKSZ1.png</file>
+        <file>Assets/broadcast/CUHKSZ2.png</file>
+    </qresource>
+    <qresource prefix="/data">
+        <file>Database/mydb.db</file>
+        <file>Database/announcementdb.db</file>
+    </qresource>
+</RCC>
